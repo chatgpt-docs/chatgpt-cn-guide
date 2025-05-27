@@ -18,8 +18,6 @@
 
 ---
 
-![ChatGPT 中文版](https://pic1.imgdb.cn/item/67befdf9d0e0a243d4061708.png)
-
 ## 国内好用的 ChatGPT 中文版镜像网站推荐
 
 以下是几款经过筛选的 ChatGPT 中文版镜像网站，助您快速体验智能AI：  

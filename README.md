@@ -1,6 +1,6 @@
 # 如何在国内使用 ChatGPT：保姆级教程及无限制使用 ChatGPT 4.0 的方法（支持 GPT-4、GPT-4o、GPT-o1）
 
->更新时间: 2025-03-16
+>更新时间: 2025-05-27
 > 
 本文将为您详细介绍如何在国内轻松使用 ChatGPT，特别是中文版 ChatGPT 的实用技巧。我们会推荐可靠的 ChatGPT 镜像网站，提供官方注册步骤，并解答常见问题，让您快速上手这款智能对话工具。
 
@@ -27,22 +27,12 @@
 1. **一下AI**  
    - **功能亮点**：支持 GPT-4.0、GPT o1、GPT o3 mini，还能生成 AI 绘画。  
    - **使用方式**：网页版。  
-   - **访问链接**：[www.yixiaai.com](http://www.yixiaai.com)  
+   - **访问链接**：[xsimplechat.com](http://xsimplechat.com)  
 
 2. **Lify Chat**  
    - **功能亮点**：支持 GPT-4.0、GPT-4.0 Turbo、GPT o1，还提供 AI PPT、插件和知识库功能。  
    - **使用方式**：网页版。  
-   - **访问链接**：[chat.lify.vip](http://chat.lify.vip)  
-
-3. **ChatGPT 桌面版**  
-   - **功能亮点**：覆盖全系列 GPT 模型，适合电脑用户。  
-   - **使用方式**：桌面客户端。  
-   - **下载链接**：[chatknow.lify.vip/software/AI智识岛_1.0.0_x64_zh-CN.msi](http://chatknow.lify.vip/software/AI%E6%99%BA%E6%85%A7%E5%B2%9B_1.0.0_x64_zh-CN.msi)  
-
-4. **ChatGPT for Edge**  
-   - **功能亮点**：Edge 浏览器插件，支持全系列模型，操作简单。  
-   - **使用方式**：浏览器插件。  
-   - **访问链接**：[microsoftedge.microsoft.com/addons/detail/chatgpt中文版](https://microsoftedge.microsoft.com/addons/detail/chatgpt%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%88%E4%B8%AD%E6%96%87%E7%95%8C%E9%9D%A2%E3%80%81%E5%AF%B9%E8%AF%9D%E3%80%81%E5%86%99%E4%BD%9C%E3%80%81%E7%BB%98%E7%94%BB/lmlenkgcieicbnpobkhmpcgmamahahil)  
+   - **访问链接**：[chat.lanjing.pro](http://chat.lanjing.pro)  
 
 这些 ChatGPT 镜像网站让您无需复杂设置，就能畅享 AI 带来的便利。
 
@@ -77,7 +67,7 @@
 
 ## 如何快速上手中文版 ChatGPT？
 
-1. **挑选镜像网站**：访问推荐站点，比如 [chat.lify.vip](http://chat.lify.vip)。  
+1. **挑选镜像网站**：访问推荐站点，比如 [chat.lanjing.pro](http://chat.lanjing.pro)。  
 2. **注册账号**：用邮箱或手机号简单注册。  
 3. **选择模型**：根据需要切换 GPT-4、GPT-3.5 或 GPT-o1。  
 4. **开始体验**：输入问题，马上获得智能回答。  

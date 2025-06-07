@@ -1,6 +1,6 @@
 # 如何在国内使用 ChatGPT：保姆级教程及无限制使用 ChatGPT 4.0 的方法（支持 GPT-4、GPT-4o、GPT-o1）
 
->更新时间: 2025-05-31
+>更新时间: 2025-06-08
 > 
 本文将为您详细介绍如何在国内轻松使用 ChatGPT，特别是中文版 ChatGPT 的实用技巧。我们会推荐可靠的 ChatGPT 镜像网站，提供官方注册步骤，并解答常见问题，让您快速上手这款智能对话工具。
 
@@ -23,12 +23,12 @@
 以下是几款经过筛选的 ChatGPT 中文版镜像网站，助您快速体验智能AI：  
 
 1. **一下AI**  
-   - **功能亮点**：支持 GPT-4.0、GPT o1、GPT o3 mini，Claude 4 Sonnet 还能生成 AI 绘画。  
+   - **功能亮点**：支持 GPT-4.0、GPT o1、GPT o3 mini，Claude 3.7 Sonnet、Claude 4 Sonnet、Gemini 2.5 Pro 还支持AI PPT。  
    - **使用方式**：网页版。  
    - **访问链接**：[xsimplechat.com](http://xsimplechat.com)  
 
 2. **Lify Chat**  
-   - **功能亮点**：支持 GPT-4.0、GPT-4.0 Turbo、GPT o1，还提供 AI PPT、插件和知识库功能。  
+   - **功能亮点**：支持 GPT-4.0、GPT-4.0 Turbo、GPT o1，Claude 4 Sonnet、还提供 AI 绘画、插件和知识库功能。  
    - **使用方式**：网页版。  
    - **访问链接**：[chat.lanjing.pro](http://chat.lanjing.pro)  
 

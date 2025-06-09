@@ -176,7 +176,7 @@
         <div class="content">
             <h1>ChatGPT 中文版</h1>
             <h2>2025年 最新的 ChatGPT 中文版。</h2>
-            <h2>轻松使用上 ChatGPT、DeepSeek、Claude、Grok ~</h2>
+            <h2>轻松使用上 ChatGPT、Gemini、DeepSeek、Claude、Grok ~</h2>
             <h3>无需翻墙、无需注册账号~ </h3>
             <h4 class="update-date">更新日期：<strong><span id="update-date"></span></strong></h4>
             <a href="https://xsimplechat.com" target="_self" class="button">开始对话</a>
@@ -245,15 +245,15 @@
         <tbody>
             <tr>
                 <td><a href="xsimplechat.com" target="_blank">https://xsimplechat.com</a></td>
-                <td>GPT-4,4o,o3,GPT 4.5、DeepSeek R1满血版、Claude 3.7 Sonnet、Claude 4 Sonnet、Grok 3、Gemini 2.5 Pro、Gemini 2.0 Flash、AI PPT</td>
+                <td>GPT-4,4o,o3,GPT 4.5、Gemini 2.5 Pro、DeepSeek R1满血版、Claude 3.7 Sonnet、Claude 4 Sonnet、Grok 3、Gemini 2.5 Pro、Gemini 2.0 Flash、AI PPT</td>
                 <td>有</td>
                 <td>无需注册</td>
                 <td>⭐⭐⭐⭐⭐</td>
-                <td>支持ChatGP T全系列、Claude 全系列、DeepSeek全系列、Gemini 全系列模型，适合开发者与普通用户</td>
+                <td>支持ChatGP T全系列、Claude 全系列、Gemini全系列、DeepSeek全系列、Gemini 全系列模型，适合开发者与普通用户</td>
             </tr>
             <tr>
                 <td><a href="chat.lanjing.pro" target="_blank">https://chat.lanjing.pro/</a></td>
-                <td>GPT-4, GPT-4o, GPT-o1，GPT-o3，Claude 4 Sonnet、AI知识库、DeepSeek，Grok、Midjourney</td>
+                <td>GPT-4, GPT-4o, GPT-o1，GPT-o3，Gemini 2.5 Pro、Claude 4 Sonnet、AI知识库、DeepSeek，Grok、Midjourney</td>
                 <td>有</td>
                 <td>无需注册</td>
                 <td>⭐⭐⭐⭐⭐</td>
@@ -373,7 +373,6 @@
         document.documentElement.style.setProperty('--color-1', color1);
         document.documentElement.style.setProperty('--color-2', color2);
 
-        // 自动更新时间
         function pad2(n){return n<10?'0'+n:n;}
         function formatDate(d){
             return d.getFullYear() + "2025年" + pad2(d.getMonth()+1) + "月" + pad2(d.getDate()) + "日";
@@ -383,7 +382,6 @@
         if(updateDateElem){
             updateDateElem.textContent = formatDate(today);
         }
-        // 自动更新meta标签
         const metaDate = document.querySelector('meta[name="date"]');
         if(metaDate){
             metaDate.setAttribute('content', today.toISOString().slice(0,10)); // 格式：2024-06-08

@@ -1,6 +1,6 @@
 # 如何在国内使用 ChatGPT：保姆级教程及无限制使用 ChatGPT 4.0 的方法（支持 GPT-4、GPT-4o、GPT-o1）
 
->更新时间: 2025-06-08
+>更新时间: 2025-07-18
 > 
 本文将为您详细介绍如何在国内轻松使用 ChatGPT，特别是中文版 ChatGPT 的实用技巧。我们会推荐可靠的 ChatGPT 镜像网站，提供官方注册步骤，并解答常见问题，让您快速上手这款智能对话工具。
 
@@ -30,7 +30,7 @@
 2. **Lify Chat**  
    - **功能亮点**：支持 GPT-4.0、GPT-4.0 Turbo、GPT o1，Claude 4 Sonnet、还提供 AI 绘画、插件和知识库功能。  
    - **使用方式**：网页版。  
-   - **访问链接**：[chat.lanjing.pro](http://chat.lanjing.pro)  
+   - **访问链接**：[chat.lanjingai.org](http://chat.lanjingai.org)  
 
 这些 ChatGPT 镜像网站让您无需复杂设置，就能畅享 AI 带来的便利。
 
@@ -65,7 +65,7 @@
 
 ## 如何快速上手中文版 ChatGPT？
 
-1. **挑选镜像网站**：访问推荐站点，比如 [chat.lanjing.pro](http://chat.lanjing.pro)。  
+1. **挑选镜像网站**：访问推荐站点，比如 [chat.lanjingai.org](http://chat.lanjingai.org)。  
 2. **注册账号**：用邮箱或手机号简单注册。  
 3. **选择模型**：根据需要切换 GPT-4、GPT-3.5 或 GPT-o1。  
 4. **开始体验**：输入问题，马上获得智能回答。  

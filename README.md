@@ -1,6 +1,6 @@
-# 如何在国内使用 ChatGPT：保姆级教程及无限制使用 ChatGPT 4.0 的方法（支持 GPT-4、GPT-4o、GPT-o1）
+# 如何在国内使用 ChatGPT：保姆级教程及无限制使用 ChatGPT 5 的方法（支持 GPT-5、GPT-4o、GPT-o1）
 
->更新时间: 2025-07-29 
+>更新时间: 2025-09-09 
 > 
 本文将为您详细介绍如何在国内轻松使用 ChatGPT，特别是中文版 ChatGPT 的实用技巧。我们会推荐可靠的 ChatGPT 镜像网站，提供官方注册步骤，并解答常见问题，让您快速上手这款智能对话工具。
 
@@ -23,12 +23,12 @@
 以下是几款经过筛选的 ChatGPT 中文版镜像网站，助您快速体验智能AI：  
 
 1. **一下AI**  
-   - **功能亮点**：支持 GPT-4.0、GPT o1、GPT o3 mini，Claude 3.7 Sonnet、Claude 4 Sonnet、Gemini 2.5 Pro 还支持AI PPT。  
+   - **功能亮点**：支持 GPT-5、GPT o1、GPT o3 mini，Claude 3.7 Sonnet、Claude 4 Sonnet、Gemini 2.5 Pro 还支持AI PPT。  
    - **使用方式**：网页版。  
    - **访问链接**：[xsimplechat.com](http://xsimplechat.com)  
 
 2. **Lify Chat**  
-   - **功能亮点**：支持 GPT-4.0、GPT-4.0 Turbo、GPT o1，Claude 4 Sonnet、还提供 AI 绘画、插件和知识库功能。  
+   - **功能亮点**：支持 GPT-5、GPT-5 Turbo、GPT o1，Claude 4 Sonnet、还提供 AI 绘画、插件和知识库功能。  
    - **使用方式**：网页版。  
    - **访问链接**：[chat.lanjingai.org](http://chat.lanjingai.org)  
 
@@ -67,7 +67,7 @@
 
 1. **挑选镜像网站**：访问推荐站点，比如 [chat.lanjingai.org](http://chat.lanjingai.org)。  
 2. **注册账号**：用邮箱或手机号简单注册。  
-3. **选择模型**：根据需要切换 GPT-4、GPT-3.5 或 GPT-o1。  
+3. **选择模型**：根据需要切换 GPT-5、GPT-5 或 GPT-o1。  
 4. **开始体验**：输入问题，马上获得智能回答。  
 
 操作简单，几分钟就能搞定！
@@ -79,15 +79,15 @@
 ### 官网注册步骤：  
 1. **进入官网**：访问 [chat.openai.com](https://chat.openai.com)（需翻墙）。  
 2. **创建账号**：输入邮箱和密码，用海外手机号完成验证。  
-3. **选择模型**：登录后可使用 GPT-4 或 GPT-3.5。  
+3. **选择模型**：登录后可使用 GPT-5 或 GPT-5。  
 4. **开始对话**：体验智能问答的乐趣。  
 
 ---
 
 ## 常见问题解答
 
-1. **中文版 ChatGPT 支持 GPT-4 吗？**  
-   支持！推荐的镜像网站都兼容 GPT-4 模型。  
+1. **中文版 ChatGPT 支持 GPT-5 吗？**  
+   支持！推荐的镜像网站都兼容 GPT-5 模型。  
 
 2. **使用中文版要花钱吗？**  
    部分网站提供免费额度，高级功能可能需要付费。  
